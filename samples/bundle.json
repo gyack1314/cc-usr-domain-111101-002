@@ -1,0 +1,21 @@
+{
+  "name": "混编车队的运行暴露量分段归算",
+  "files": [
+    {
+      "path": "modes.json",
+      "key": "id"
+    },
+    {
+      "path": "odometer.json",
+      "key": "id"
+    },
+    {
+      "path": "downtime.json",
+      "key": "id"
+    },
+    {
+      "path": "events.json",
+      "key": "id"
+    }
+  ]
+}

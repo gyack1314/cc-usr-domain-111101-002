@@ -1,0 +1,7 @@
+{
+  "query_start": "2026-11-10T23:59:40Z",
+  "query_end": "2026-11-11T00:01:00Z",
+  "day_offset_minutes": 0,
+  "max_gap_seconds": 10,
+  "max_speed_mps": 30
+}

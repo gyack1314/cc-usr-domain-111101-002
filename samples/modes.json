@@ -1,0 +1,30 @@
+[
+  {
+    "id": "m1",
+    "vehicle": "V1",
+    "start": "2026-11-10T23:59:40Z",
+    "end": "2026-11-11T00:00:10Z",
+    "mode": "AUTONOMOUS"
+  },
+  {
+    "id": "m2",
+    "vehicle": "V1",
+    "start": "2026-11-10T23:59:55Z",
+    "end": "2026-11-11T00:00:00Z",
+    "mode": "MANUAL"
+  },
+  {
+    "id": "m3",
+    "vehicle": "V1",
+    "start": "2026-11-11T00:00:10Z",
+    "end": "2026-11-11T00:00:25Z",
+    "mode": "MANUAL"
+  },
+  {
+    "id": "m4",
+    "vehicle": "V2",
+    "start": "2026-11-10T23:59:40Z",
+    "end": "2026-11-11T00:00:10Z",
+    "mode": "AUTONOMOUS"
+  }
+]
